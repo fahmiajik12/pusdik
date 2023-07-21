@@ -123,7 +123,7 @@
           </div> -->
         <div class="copyright " style="margin-top:-5px">
                 <div class="container">
-                    <p>© 2021 DIGITAL LIBRARY. Design by team</p>
+                    <p>© 2023 DIGITAL LIBRARY. Design by team</p>
                 </div>
             </div>
             <!-- /.container -->
